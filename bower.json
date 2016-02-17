@@ -1,0 +1,28 @@
+{
+  "name": "wcga",
+  "authors": [
+    "Jonathan Pinto Barbosa <jonathanpbarbosa@gmail.com>"
+  ],
+  "description": "WCGA Template page. The WCGA series of workshops purpose is to act as a forum for technical presentations of relevant ongoing research activities in the areas of infrastructure and virtualized infrastructure, services and applications in different areas, bringing together researchers and professionals actively acting in this areas.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "workshop",
+    "template",
+    "page"
+  ],
+  "license": "MIT",
+  "homepage": "wcga15.lncc.br",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "jquery": "~2.2.0"
+  }
+}
